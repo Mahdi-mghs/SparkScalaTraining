@@ -12,3 +12,7 @@ To get started with this repository, clone it to your local machine using the fo
 
 ```sh
 git clone https://github.com/mahdi-mghs/SparkScalaTraining.git
+```
+All datasets from [spark-scala](https://www.sundog-education.com/spark-scala/), Also about how to install that
+
+Thanks [SunDog](https://www.sundog-education.com) 🔥
